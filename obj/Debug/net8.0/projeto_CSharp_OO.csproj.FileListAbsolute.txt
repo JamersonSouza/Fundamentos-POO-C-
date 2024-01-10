@@ -1,0 +1,14 @@
+C:\DIO\projeto_CSharp_OO\bin\Debug\net8.0\projeto_CSharp_OO.exe
+C:\DIO\projeto_CSharp_OO\bin\Debug\net8.0\projeto_CSharp_OO.deps.json
+C:\DIO\projeto_CSharp_OO\bin\Debug\net8.0\projeto_CSharp_OO.runtimeconfig.json
+C:\DIO\projeto_CSharp_OO\bin\Debug\net8.0\projeto_CSharp_OO.dll
+C:\DIO\projeto_CSharp_OO\bin\Debug\net8.0\projeto_CSharp_OO.pdb
+C:\DIO\projeto_CSharp_OO\obj\Debug\net8.0\projeto_CSharp_OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\projeto_CSharp_OO\obj\Debug\net8.0\projeto_CSharp_OO.AssemblyInfoInputs.cache
+C:\DIO\projeto_CSharp_OO\obj\Debug\net8.0\projeto_CSharp_OO.AssemblyInfo.cs
+C:\DIO\projeto_CSharp_OO\obj\Debug\net8.0\projeto_CSharp_OO.csproj.CoreCompileInputs.cache
+C:\DIO\projeto_CSharp_OO\obj\Debug\net8.0\projeto_CSharp_OO.dll
+C:\DIO\projeto_CSharp_OO\obj\Debug\net8.0\refint\projeto_CSharp_OO.dll
+C:\DIO\projeto_CSharp_OO\obj\Debug\net8.0\projeto_CSharp_OO.pdb
+C:\DIO\projeto_CSharp_OO\obj\Debug\net8.0\projeto_CSharp_OO.genruntimeconfig.cache
+C:\DIO\projeto_CSharp_OO\obj\Debug\net8.0\ref\projeto_CSharp_OO.dll
