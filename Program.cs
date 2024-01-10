@@ -82,8 +82,8 @@ while (exibirMenu)
          break;
          
         case "2":
-        nokia.Ligar();
-        if(nokia.IsSmartphonePower()){
+        iphone.Ligar();
+        if(iphone.IsSmartphonePower()){
         Console.WriteLine(@"
    AAAAA   PPPP   PPPP   L       EEEEE  
   A     A  P   P  P   P  L       E      
